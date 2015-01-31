@@ -50,7 +50,6 @@
    "Icelandic" => ["Iceland"],
    "Italian" => ["Switzerland", "Italy"],
    "Inuktitut" => ["Canada"],
-   nil => ["Israel"],
    "Japanese" => ["Japan"],
    "Georgian" => ["Georgia"],
    "Kazakh" => ["Kazakhstan"],

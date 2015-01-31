@@ -1,4 +1,3 @@
-
 {
 	"aa" => "Afar",
 	"ab" => "Abkhaz",
